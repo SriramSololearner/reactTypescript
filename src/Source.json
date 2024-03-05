@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"courses",
+        "content":[
+            {   
+                "id":0,
+                "title":"01. Title",
+                "content":["01. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                            "02. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+                        ],
+                "toggle":false
+            },
+            {   
+                "id":1,
+                "title":"02. Title",
+                "content":["03. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                            "04. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+                        ],
+                "toggle":false
+            },
+            {   
+                "id":2,
+                "title":"03. Title",
+                "content":["05. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "06. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+            ],
+                "toggle":false
+            },
+            {   
+                "id":3,
+                "title":"04. Title",
+                "content":["07 Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "08. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+            ],
+                "toggle":false
+            },
+            {   
+                "id":4,
+                "title":"05. Title",
+                "content":["09. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "10. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+            ],
+                "toggle":false
+            },
+            {   
+                "id":5,
+                "title":"06. Title",
+                "content":["11. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "12. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+            ],
+                "toggle":false
+            },
+            {   
+                "id":6,
+                "title":"07. Title",
+                "content":["13. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                "14. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+            ],
+                "toggle":false
+            },
+            {   
+                "id":7,
+                "title":"08. Title",
+                "content":["15. Content Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+                            "16. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum soluta nostrum   "
+                        ],
+                "toggle":false
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Instructor",
+        "Instructor":[
+            {"image":"instructor-img.jpg","name":"John Doe"},
+            {"image":"instructor-img2.png","name":"Jane Smith"}
+
+        ]
+    }
+
+]
